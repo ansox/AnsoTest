@@ -1,6 +1,8 @@
 {
   "name": "AnsoTest",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular",
   "id": "7c862f22"
 }
